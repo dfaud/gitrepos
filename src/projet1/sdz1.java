@@ -9,11 +9,7 @@ public class sdz1 {
 		System.out.println("Veuillez saisir un mot :");
 		String str = sc.nextLine();
 		System.out.println("Vous avez saisi : " + str);
-		
-		Scanner sc = new Scanner(System.in);
-		System.out.println("Veuillez saisir un mot :");
-		String str = sc.nextLine();
-		System.out.println("Vous avez saisi : " + str);
+
 		
 	}
 
